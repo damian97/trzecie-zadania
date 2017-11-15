@@ -61,7 +61,7 @@ public class ZAdanie1 {
 			
 			System.out.print(tablica[i] +", ");
 			
-		}
+	 	}
 
 		
  	}
